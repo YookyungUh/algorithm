@@ -1,0 +1,9 @@
+8
+7 27 Saturday
+7 27 Sunday
+7 28 Sunday
+7 28 Monday
+7 29 Tuesday
+12 31 Wednesday
+1 1 Thursday
+2 28 Friday
