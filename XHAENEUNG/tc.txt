@@ -1,0 +1,6 @@
+5
+two + three = ivef
+zero * zero = one
+zero * three = roez
+five + one = ixs
+four * two = seven

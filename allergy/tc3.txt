@@ -1,0 +1,1401 @@
+50
+26 26
+a b c d e f g h i j k l m n o p q r s t u v w x y z
+3 a d g
+4 b d f e
+2 c z
+5 d b o e q
+6 e w c g m n
+2 f e
+4 g p k l
+8 h a b e d k o w
+9 i d b n a z q w e
+1 j
+3 k a h
+5 l g h e o
+8 m v h o k l w z
+5 n m l v d
+8 o a v x z q p b
+5 p q a x c
+4 q z x c
+2 r e
+9 s d e f g h i j k
+1 t
+4 u h d e
+5 v b c d q
+7 w l k o b n e
+8 x z v b e q a p
+3 y e t
+7 z t o k j g b
+26 26
+a b c d e f g h i j k l m n o p q r s t u v w x y z
+3 a d g
+4 b d f e
+2 c z
+5 d b o e q
+6 e w c g m n
+2 f e
+4 g p k l
+8 h a b e d k o w
+9 i d b n a z q w e
+1 j
+3 k a h
+5 l g h e o
+8 m v h o k l w z
+5 n m l v d
+8 o a v x z q p b
+5 p q a x c
+4 q z x c
+2 r e
+9 s d e f g h i j k
+1 t
+4 u h d e
+5 v b c d q
+7 w l k o b n e
+8 x z v b e q a p
+3 y e t
+7 z t o k j g b
+26 26
+a b c d e f g h i j k l m n o p q r s t u v w x y z
+3 a d g
+4 b d f e
+2 c z
+5 d b o e q
+6 e w c g m n
+2 f e
+4 g p k l
+8 h a b e d k o w
+9 i d b n a z q w e
+1 j
+3 k a h
+5 l g h e o
+8 m v h o k l w z
+5 n m l v d
+8 o a v x z q p b
+5 p q a x c
+4 q z x c
+2 r e
+9 s d e f g h i j k
+1 t
+4 u h d e
+5 v b c d q
+7 w l k o b n e
+8 x z v b e q a p
+3 y e t
+7 z t o k j g b
+26 26
+a b c d e f g h i j k l m n o p q r s t u v w x y z
+3 a d g
+4 b d f e
+2 c z
+5 d b o e q
+6 e w c g m n
+2 f e
+4 g p k l
+8 h a b e d k o w
+9 i d b n a z q w e
+1 j
+3 k a h
+5 l g h e o
+8 m v h o k l w z
+5 n m l v d
+8 o a v x z q p b
+5 p q a x c
+4 q z x c
+2 r e
+9 s d e f g h i j k
+1 t
+4 u h d e
+5 v b c d q
+7 w l k o b n e
+8 x z v b e q a p
+3 y e t
+7 z t o k j g b
+26 26
+a b c d e f g h i j k l m n o p q r s t u v w x y z
+3 a d g
+4 b d f e
+2 c z
+5 d b o e q
+6 e w c g m n
+2 f e
+4 g p k l
+8 h a b e d k o w
+9 i d b n a z q w e
+1 j
+3 k a h
+5 l g h e o
+8 m v h o k l w z
+5 n m l v d
+8 o a v x z q p b
+5 p q a x c
+4 q z x c
+2 r e
+9 s d e f g h i j k
+1 t
+4 u h d e
+5 v b c d q
+7 w l k o b n e
+8 x z v b e q a p
+3 y e t
+7 z t o k j g b
+26 26
+a b c d e f g h i j k l m n o p q r s t u v w x y z
+3 a d g
+4 b d f e
+2 c z
+5 d b o e q
+6 e w c g m n
+2 f e
+4 g p k l
+8 h a b e d k o w
+9 i d b n a z q w e
+1 j
+3 k a h
+5 l g h e o
+8 m v h o k l w z
+5 n m l v d
+8 o a v x z q p b
+5 p q a x c
+4 q z x c
+2 r e
+9 s d e f g h i j k
+1 t
+4 u h d e
+5 v b c d q
+7 w l k o b n e
+8 x z v b e q a p
+3 y e t
+7 z t o k j g b
+26 26
+a b c d e f g h i j k l m n o p q r s t u v w x y z
+3 a d g
+4 b d f e
+2 c z
+5 d b o e q
+6 e w c g m n
+2 f e
+4 g p k l
+8 h a b e d k o w
+9 i d b n a z q w e
+1 j
+3 k a h
+5 l g h e o
+8 m v h o k l w z
+5 n m l v d
+8 o a v x z q p b
+5 p q a x c
+4 q z x c
+2 r e
+9 s d e f g h i j k
+1 t
+4 u h d e
+5 v b c d q
+7 w l k o b n e
+8 x z v b e q a p
+3 y e t
+7 z t o k j g b
+26 26
+a b c d e f g h i j k l m n o p q r s t u v w x y z
+3 a d g
+4 b d f e
+2 c z
+5 d b o e q
+6 e w c g m n
+2 f e
+4 g p k l
+8 h a b e d k o w
+9 i d b n a z q w e
+1 j
+3 k a h
+5 l g h e o
+8 m v h o k l w z
+5 n m l v d
+8 o a v x z q p b
+5 p q a x c
+4 q z x c
+2 r e
+9 s d e f g h i j k
+1 t
+4 u h d e
+5 v b c d q
+7 w l k o b n e
+8 x z v b e q a p
+3 y e t
+7 z t o k j g b
+26 26
+a b c d e f g h i j k l m n o p q r s t u v w x y z
+3 a d g
+4 b d f e
+2 c z
+5 d b o e q
+6 e w c g m n
+2 f e
+4 g p k l
+8 h a b e d k o w
+9 i d b n a z q w e
+1 j
+3 k a h
+5 l g h e o
+8 m v h o k l w z
+5 n m l v d
+8 o a v x z q p b
+5 p q a x c
+4 q z x c
+2 r e
+9 s d e f g h i j k
+1 t
+4 u h d e
+5 v b c d q
+7 w l k o b n e
+8 x z v b e q a p
+3 y e t
+7 z t o k j g b
+26 26
+a b c d e f g h i j k l m n o p q r s t u v w x y z
+3 a d g
+4 b d f e
+2 c z
+5 d b o e q
+6 e w c g m n
+2 f e
+4 g p k l
+8 h a b e d k o w
+9 i d b n a z q w e
+1 j
+3 k a h
+5 l g h e o
+8 m v h o k l w z
+5 n m l v d
+8 o a v x z q p b
+5 p q a x c
+4 q z x c
+2 r e
+9 s d e f g h i j k
+1 t
+4 u h d e
+5 v b c d q
+7 w l k o b n e
+8 x z v b e q a p
+3 y e t
+7 z t o k j g b
+26 26
+a b c d e f g h i j k l m n o p q r s t u v w x y z
+3 a d g
+4 b d f e
+2 c z
+5 d b o e q
+6 e w c g m n
+2 f e
+4 g p k l
+8 h a b e d k o w
+9 i d b n a z q w e
+1 j
+3 k a h
+5 l g h e o
+8 m v h o k l w z
+5 n m l v d
+8 o a v x z q p b
+5 p q a x c
+4 q z x c
+2 r e
+9 s d e f g h i j k
+1 t
+4 u h d e
+5 v b c d q
+7 w l k o b n e
+8 x z v b e q a p
+3 y e t
+7 z t o k j g b
+26 26
+a b c d e f g h i j k l m n o p q r s t u v w x y z
+3 a d g
+4 b d f e
+2 c z
+5 d b o e q
+6 e w c g m n
+2 f e
+4 g p k l
+8 h a b e d k o w
+9 i d b n a z q w e
+1 j
+3 k a h
+5 l g h e o
+8 m v h o k l w z
+5 n m l v d
+8 o a v x z q p b
+5 p q a x c
+4 q z x c
+2 r e
+9 s d e f g h i j k
+1 t
+4 u h d e
+5 v b c d q
+7 w l k o b n e
+8 x z v b e q a p
+3 y e t
+7 z t o k j g b
+26 26
+a b c d e f g h i j k l m n o p q r s t u v w x y z
+3 a d g
+4 b d f e
+2 c z
+5 d b o e q
+6 e w c g m n
+2 f e
+4 g p k l
+8 h a b e d k o w
+9 i d b n a z q w e
+1 j
+3 k a h
+5 l g h e o
+8 m v h o k l w z
+5 n m l v d
+8 o a v x z q p b
+5 p q a x c
+4 q z x c
+2 r e
+9 s d e f g h i j k
+1 t
+4 u h d e
+5 v b c d q
+7 w l k o b n e
+8 x z v b e q a p
+3 y e t
+7 z t o k j g b
+26 26
+a b c d e f g h i j k l m n o p q r s t u v w x y z
+3 a d g
+4 b d f e
+2 c z
+5 d b o e q
+6 e w c g m n
+2 f e
+4 g p k l
+8 h a b e d k o w
+9 i d b n a z q w e
+1 j
+3 k a h
+5 l g h e o
+8 m v h o k l w z
+5 n m l v d
+8 o a v x z q p b
+5 p q a x c
+4 q z x c
+2 r e
+9 s d e f g h i j k
+1 t
+4 u h d e
+5 v b c d q
+7 w l k o b n e
+8 x z v b e q a p
+3 y e t
+7 z t o k j g b
+26 26
+a b c d e f g h i j k l m n o p q r s t u v w x y z
+3 a d g
+4 b d f e
+2 c z
+5 d b o e q
+6 e w c g m n
+2 f e
+4 g p k l
+8 h a b e d k o w
+9 i d b n a z q w e
+1 j
+3 k a h
+5 l g h e o
+8 m v h o k l w z
+5 n m l v d
+8 o a v x z q p b
+5 p q a x c
+4 q z x c
+2 r e
+9 s d e f g h i j k
+1 t
+4 u h d e
+5 v b c d q
+7 w l k o b n e
+8 x z v b e q a p
+3 y e t
+7 z t o k j g b
+26 26
+a b c d e f g h i j k l m n o p q r s t u v w x y z
+3 a d g
+4 b d f e
+2 c z
+5 d b o e q
+6 e w c g m n
+2 f e
+4 g p k l
+8 h a b e d k o w
+9 i d b n a z q w e
+1 j
+3 k a h
+5 l g h e o
+8 m v h o k l w z
+5 n m l v d
+8 o a v x z q p b
+5 p q a x c
+4 q z x c
+2 r e
+9 s d e f g h i j k
+1 t
+4 u h d e
+5 v b c d q
+7 w l k o b n e
+8 x z v b e q a p
+3 y e t
+7 z t o k j g b
+26 26
+a b c d e f g h i j k l m n o p q r s t u v w x y z
+3 a d g
+4 b d f e
+2 c z
+5 d b o e q
+6 e w c g m n
+2 f e
+4 g p k l
+8 h a b e d k o w
+9 i d b n a z q w e
+1 j
+3 k a h
+5 l g h e o
+8 m v h o k l w z
+5 n m l v d
+8 o a v x z q p b
+5 p q a x c
+4 q z x c
+2 r e
+9 s d e f g h i j k
+1 t
+4 u h d e
+5 v b c d q
+7 w l k o b n e
+8 x z v b e q a p
+3 y e t
+7 z t o k j g b
+26 26
+a b c d e f g h i j k l m n o p q r s t u v w x y z
+3 a d g
+4 b d f e
+2 c z
+5 d b o e q
+6 e w c g m n
+2 f e
+4 g p k l
+8 h a b e d k o w
+9 i d b n a z q w e
+1 j
+3 k a h
+5 l g h e o
+8 m v h o k l w z
+5 n m l v d
+8 o a v x z q p b
+5 p q a x c
+4 q z x c
+2 r e
+9 s d e f g h i j k
+1 t
+4 u h d e
+5 v b c d q
+7 w l k o b n e
+8 x z v b e q a p
+3 y e t
+7 z t o k j g b
+26 26
+a b c d e f g h i j k l m n o p q r s t u v w x y z
+3 a d g
+4 b d f e
+2 c z
+5 d b o e q
+6 e w c g m n
+2 f e
+4 g p k l
+8 h a b e d k o w
+9 i d b n a z q w e
+1 j
+3 k a h
+5 l g h e o
+8 m v h o k l w z
+5 n m l v d
+8 o a v x z q p b
+5 p q a x c
+4 q z x c
+2 r e
+9 s d e f g h i j k
+1 t
+4 u h d e
+5 v b c d q
+7 w l k o b n e
+8 x z v b e q a p
+3 y e t
+7 z t o k j g b
+26 26
+a b c d e f g h i j k l m n o p q r s t u v w x y z
+3 a d g
+4 b d f e
+2 c z
+5 d b o e q
+6 e w c g m n
+2 f e
+4 g p k l
+8 h a b e d k o w
+9 i d b n a z q w e
+1 j
+3 k a h
+5 l g h e o
+8 m v h o k l w z
+5 n m l v d
+8 o a v x z q p b
+5 p q a x c
+4 q z x c
+2 r e
+9 s d e f g h i j k
+1 t
+4 u h d e
+5 v b c d q
+7 w l k o b n e
+8 x z v b e q a p
+3 y e t
+7 z t o k j g b
+26 26
+a b c d e f g h i j k l m n o p q r s t u v w x y z
+3 a d g
+4 b d f e
+2 c z
+5 d b o e q
+6 e w c g m n
+2 f e
+4 g p k l
+8 h a b e d k o w
+9 i d b n a z q w e
+1 j
+3 k a h
+5 l g h e o
+8 m v h o k l w z
+5 n m l v d
+8 o a v x z q p b
+5 p q a x c
+4 q z x c
+2 r e
+9 s d e f g h i j k
+1 t
+4 u h d e
+5 v b c d q
+7 w l k o b n e
+8 x z v b e q a p
+3 y e t
+7 z t o k j g b
+26 26
+a b c d e f g h i j k l m n o p q r s t u v w x y z
+3 a d g
+4 b d f e
+2 c z
+5 d b o e q
+6 e w c g m n
+2 f e
+4 g p k l
+8 h a b e d k o w
+9 i d b n a z q w e
+1 j
+3 k a h
+5 l g h e o
+8 m v h o k l w z
+5 n m l v d
+8 o a v x z q p b
+5 p q a x c
+4 q z x c
+2 r e
+9 s d e f g h i j k
+1 t
+4 u h d e
+5 v b c d q
+7 w l k o b n e
+8 x z v b e q a p
+3 y e t
+7 z t o k j g b
+26 26
+a b c d e f g h i j k l m n o p q r s t u v w x y z
+3 a d g
+4 b d f e
+2 c z
+5 d b o e q
+6 e w c g m n
+2 f e
+4 g p k l
+8 h a b e d k o w
+9 i d b n a z q w e
+1 j
+3 k a h
+5 l g h e o
+8 m v h o k l w z
+5 n m l v d
+8 o a v x z q p b
+5 p q a x c
+4 q z x c
+2 r e
+9 s d e f g h i j k
+1 t
+4 u h d e
+5 v b c d q
+7 w l k o b n e
+8 x z v b e q a p
+3 y e t
+7 z t o k j g b
+26 26
+a b c d e f g h i j k l m n o p q r s t u v w x y z
+3 a d g
+4 b d f e
+2 c z
+5 d b o e q
+6 e w c g m n
+2 f e
+4 g p k l
+8 h a b e d k o w
+9 i d b n a z q w e
+1 j
+3 k a h
+5 l g h e o
+8 m v h o k l w z
+5 n m l v d
+8 o a v x z q p b
+5 p q a x c
+4 q z x c
+2 r e
+9 s d e f g h i j k
+1 t
+4 u h d e
+5 v b c d q
+7 w l k o b n e
+8 x z v b e q a p
+3 y e t
+7 z t o k j g b
+26 26
+a b c d e f g h i j k l m n o p q r s t u v w x y z
+3 a d g
+4 b d f e
+2 c z
+5 d b o e q
+6 e w c g m n
+2 f e
+4 g p k l
+8 h a b e d k o w
+9 i d b n a z q w e
+1 j
+3 k a h
+5 l g h e o
+8 m v h o k l w z
+5 n m l v d
+8 o a v x z q p b
+5 p q a x c
+4 q z x c
+2 r e
+9 s d e f g h i j k
+1 t
+4 u h d e
+5 v b c d q
+7 w l k o b n e
+8 x z v b e q a p
+3 y e t
+7 z t o k j g b
+26 26
+a b c d e f g h i j k l m n o p q r s t u v w x y z
+3 a d g
+4 b d f e
+2 c z
+5 d b o e q
+6 e w c g m n
+2 f e
+4 g p k l
+8 h a b e d k o w
+9 i d b n a z q w e
+1 j
+3 k a h
+5 l g h e o
+8 m v h o k l w z
+5 n m l v d
+8 o a v x z q p b
+5 p q a x c
+4 q z x c
+2 r e
+9 s d e f g h i j k
+1 t
+4 u h d e
+5 v b c d q
+7 w l k o b n e
+8 x z v b e q a p
+3 y e t
+7 z t o k j g b
+26 26
+a b c d e f g h i j k l m n o p q r s t u v w x y z
+3 a d g
+4 b d f e
+2 c z
+5 d b o e q
+6 e w c g m n
+2 f e
+4 g p k l
+8 h a b e d k o w
+9 i d b n a z q w e
+1 j
+3 k a h
+5 l g h e o
+8 m v h o k l w z
+5 n m l v d
+8 o a v x z q p b
+5 p q a x c
+4 q z x c
+2 r e
+9 s d e f g h i j k
+1 t
+4 u h d e
+5 v b c d q
+7 w l k o b n e
+8 x z v b e q a p
+3 y e t
+7 z t o k j g b
+26 26
+a b c d e f g h i j k l m n o p q r s t u v w x y z
+3 a d g
+4 b d f e
+2 c z
+5 d b o e q
+6 e w c g m n
+2 f e
+4 g p k l
+8 h a b e d k o w
+9 i d b n a z q w e
+1 j
+3 k a h
+5 l g h e o
+8 m v h o k l w z
+5 n m l v d
+8 o a v x z q p b
+5 p q a x c
+4 q z x c
+2 r e
+9 s d e f g h i j k
+1 t
+4 u h d e
+5 v b c d q
+7 w l k o b n e
+8 x z v b e q a p
+3 y e t
+7 z t o k j g b
+26 26
+a b c d e f g h i j k l m n o p q r s t u v w x y z
+3 a d g
+4 b d f e
+2 c z
+5 d b o e q
+6 e w c g m n
+2 f e
+4 g p k l
+8 h a b e d k o w
+9 i d b n a z q w e
+1 j
+3 k a h
+5 l g h e o
+8 m v h o k l w z
+5 n m l v d
+8 o a v x z q p b
+5 p q a x c
+4 q z x c
+2 r e
+9 s d e f g h i j k
+1 t
+4 u h d e
+5 v b c d q
+7 w l k o b n e
+8 x z v b e q a p
+3 y e t
+7 z t o k j g b
+26 26
+a b c d e f g h i j k l m n o p q r s t u v w x y z
+3 a d g
+4 b d f e
+2 c z
+5 d b o e q
+6 e w c g m n
+2 f e
+4 g p k l
+8 h a b e d k o w
+9 i d b n a z q w e
+1 j
+3 k a h
+5 l g h e o
+8 m v h o k l w z
+5 n m l v d
+8 o a v x z q p b
+5 p q a x c
+4 q z x c
+2 r e
+9 s d e f g h i j k
+1 t
+4 u h d e
+5 v b c d q
+7 w l k o b n e
+8 x z v b e q a p
+3 y e t
+7 z t o k j g b
+26 26
+a b c d e f g h i j k l m n o p q r s t u v w x y z
+3 a d g
+4 b d f e
+2 c z
+5 d b o e q
+6 e w c g m n
+2 f e
+4 g p k l
+8 h a b e d k o w
+9 i d b n a z q w e
+1 j
+3 k a h
+5 l g h e o
+8 m v h o k l w z
+5 n m l v d
+8 o a v x z q p b
+5 p q a x c
+4 q z x c
+2 r e
+9 s d e f g h i j k
+1 t
+4 u h d e
+5 v b c d q
+7 w l k o b n e
+8 x z v b e q a p
+3 y e t
+7 z t o k j g b
+26 26
+a b c d e f g h i j k l m n o p q r s t u v w x y z
+3 a d g
+4 b d f e
+2 c z
+5 d b o e q
+6 e w c g m n
+2 f e
+4 g p k l
+8 h a b e d k o w
+9 i d b n a z q w e
+1 j
+3 k a h
+5 l g h e o
+8 m v h o k l w z
+5 n m l v d
+8 o a v x z q p b
+5 p q a x c
+4 q z x c
+2 r e
+9 s d e f g h i j k
+1 t
+4 u h d e
+5 v b c d q
+7 w l k o b n e
+8 x z v b e q a p
+3 y e t
+7 z t o k j g b
+26 26
+a b c d e f g h i j k l m n o p q r s t u v w x y z
+3 a d g
+4 b d f e
+2 c z
+5 d b o e q
+6 e w c g m n
+2 f e
+4 g p k l
+8 h a b e d k o w
+9 i d b n a z q w e
+1 j
+3 k a h
+5 l g h e o
+8 m v h o k l w z
+5 n m l v d
+8 o a v x z q p b
+5 p q a x c
+4 q z x c
+2 r e
+9 s d e f g h i j k
+1 t
+4 u h d e
+5 v b c d q
+7 w l k o b n e
+8 x z v b e q a p
+3 y e t
+7 z t o k j g b
+26 26
+a b c d e f g h i j k l m n o p q r s t u v w x y z
+3 a d g
+4 b d f e
+2 c z
+5 d b o e q
+6 e w c g m n
+2 f e
+4 g p k l
+8 h a b e d k o w
+9 i d b n a z q w e
+1 j
+3 k a h
+5 l g h e o
+8 m v h o k l w z
+5 n m l v d
+8 o a v x z q p b
+5 p q a x c
+4 q z x c
+2 r e
+9 s d e f g h i j k
+1 t
+4 u h d e
+5 v b c d q
+7 w l k o b n e
+8 x z v b e q a p
+3 y e t
+7 z t o k j g b
+26 26
+a b c d e f g h i j k l m n o p q r s t u v w x y z
+3 a d g
+4 b d f e
+2 c z
+5 d b o e q
+6 e w c g m n
+2 f e
+4 g p k l
+8 h a b e d k o w
+9 i d b n a z q w e
+1 j
+3 k a h
+5 l g h e o
+8 m v h o k l w z
+5 n m l v d
+8 o a v x z q p b
+5 p q a x c
+4 q z x c
+2 r e
+9 s d e f g h i j k
+1 t
+4 u h d e
+5 v b c d q
+7 w l k o b n e
+8 x z v b e q a p
+3 y e t
+7 z t o k j g b
+26 26
+a b c d e f g h i j k l m n o p q r s t u v w x y z
+3 a d g
+4 b d f e
+2 c z
+5 d b o e q
+6 e w c g m n
+2 f e
+4 g p k l
+8 h a b e d k o w
+9 i d b n a z q w e
+1 j
+3 k a h
+5 l g h e o
+8 m v h o k l w z
+5 n m l v d
+8 o a v x z q p b
+5 p q a x c
+4 q z x c
+2 r e
+9 s d e f g h i j k
+1 t
+4 u h d e
+5 v b c d q
+7 w l k o b n e
+8 x z v b e q a p
+3 y e t
+7 z t o k j g b
+26 26
+a b c d e f g h i j k l m n o p q r s t u v w x y z
+3 a d g
+4 b d f e
+2 c z
+5 d b o e q
+6 e w c g m n
+2 f e
+4 g p k l
+8 h a b e d k o w
+9 i d b n a z q w e
+1 j
+3 k a h
+5 l g h e o
+8 m v h o k l w z
+5 n m l v d
+8 o a v x z q p b
+5 p q a x c
+4 q z x c
+2 r e
+9 s d e f g h i j k
+1 t
+4 u h d e
+5 v b c d q
+7 w l k o b n e
+8 x z v b e q a p
+3 y e t
+7 z t o k j g b
+26 26
+a b c d e f g h i j k l m n o p q r s t u v w x y z
+3 a d g
+4 b d f e
+2 c z
+5 d b o e q
+6 e w c g m n
+2 f e
+4 g p k l
+8 h a b e d k o w
+9 i d b n a z q w e
+1 j
+3 k a h
+5 l g h e o
+8 m v h o k l w z
+5 n m l v d
+8 o a v x z q p b
+5 p q a x c
+4 q z x c
+2 r e
+9 s d e f g h i j k
+1 t
+4 u h d e
+5 v b c d q
+7 w l k o b n e
+8 x z v b e q a p
+3 y e t
+7 z t o k j g b
+26 26
+a b c d e f g h i j k l m n o p q r s t u v w x y z
+3 a d g
+4 b d f e
+2 c z
+5 d b o e q
+6 e w c g m n
+2 f e
+4 g p k l
+8 h a b e d k o w
+9 i d b n a z q w e
+1 j
+3 k a h
+5 l g h e o
+8 m v h o k l w z
+5 n m l v d
+8 o a v x z q p b
+5 p q a x c
+4 q z x c
+2 r e
+9 s d e f g h i j k
+1 t
+4 u h d e
+5 v b c d q
+7 w l k o b n e
+8 x z v b e q a p
+3 y e t
+7 z t o k j g b
+26 26
+a b c d e f g h i j k l m n o p q r s t u v w x y z
+3 a d g
+4 b d f e
+2 c z
+5 d b o e q
+6 e w c g m n
+2 f e
+4 g p k l
+8 h a b e d k o w
+9 i d b n a z q w e
+1 j
+3 k a h
+5 l g h e o
+8 m v h o k l w z
+5 n m l v d
+8 o a v x z q p b
+5 p q a x c
+4 q z x c
+2 r e
+9 s d e f g h i j k
+1 t
+4 u h d e
+5 v b c d q
+7 w l k o b n e
+8 x z v b e q a p
+3 y e t
+7 z t o k j g b
+26 26
+a b c d e f g h i j k l m n o p q r s t u v w x y z
+3 a d g
+4 b d f e
+2 c z
+5 d b o e q
+6 e w c g m n
+2 f e
+4 g p k l
+8 h a b e d k o w
+9 i d b n a z q w e
+1 j
+3 k a h
+5 l g h e o
+8 m v h o k l w z
+5 n m l v d
+8 o a v x z q p b
+5 p q a x c
+4 q z x c
+2 r e
+9 s d e f g h i j k
+1 t
+4 u h d e
+5 v b c d q
+7 w l k o b n e
+8 x z v b e q a p
+3 y e t
+7 z t o k j g b
+26 26
+a b c d e f g h i j k l m n o p q r s t u v w x y z
+3 a d g
+4 b d f e
+2 c z
+5 d b o e q
+6 e w c g m n
+2 f e
+4 g p k l
+8 h a b e d k o w
+9 i d b n a z q w e
+1 j
+3 k a h
+5 l g h e o
+8 m v h o k l w z
+5 n m l v d
+8 o a v x z q p b
+5 p q a x c
+4 q z x c
+2 r e
+9 s d e f g h i j k
+1 t
+4 u h d e
+5 v b c d q
+7 w l k o b n e
+8 x z v b e q a p
+3 y e t
+7 z t o k j g b
+26 26
+a b c d e f g h i j k l m n o p q r s t u v w x y z
+3 a d g
+4 b d f e
+2 c z
+5 d b o e q
+6 e w c g m n
+2 f e
+4 g p k l
+8 h a b e d k o w
+9 i d b n a z q w e
+1 j
+3 k a h
+5 l g h e o
+8 m v h o k l w z
+5 n m l v d
+8 o a v x z q p b
+5 p q a x c
+4 q z x c
+2 r e
+9 s d e f g h i j k
+1 t
+4 u h d e
+5 v b c d q
+7 w l k o b n e
+8 x z v b e q a p
+3 y e t
+7 z t o k j g b
+26 26
+a b c d e f g h i j k l m n o p q r s t u v w x y z
+3 a d g
+4 b d f e
+2 c z
+5 d b o e q
+6 e w c g m n
+2 f e
+4 g p k l
+8 h a b e d k o w
+9 i d b n a z q w e
+1 j
+3 k a h
+5 l g h e o
+8 m v h o k l w z
+5 n m l v d
+8 o a v x z q p b
+5 p q a x c
+4 q z x c
+2 r e
+9 s d e f g h i j k
+1 t
+4 u h d e
+5 v b c d q
+7 w l k o b n e
+8 x z v b e q a p
+3 y e t
+7 z t o k j g b
+26 26
+a b c d e f g h i j k l m n o p q r s t u v w x y z
+3 a d g
+4 b d f e
+2 c z
+5 d b o e q
+6 e w c g m n
+2 f e
+4 g p k l
+8 h a b e d k o w
+9 i d b n a z q w e
+1 j
+3 k a h
+5 l g h e o
+8 m v h o k l w z
+5 n m l v d
+8 o a v x z q p b
+5 p q a x c
+4 q z x c
+2 r e
+9 s d e f g h i j k
+1 t
+4 u h d e
+5 v b c d q
+7 w l k o b n e
+8 x z v b e q a p
+3 y e t
+7 z t o k j g b
+26 26
+a b c d e f g h i j k l m n o p q r s t u v w x y z
+3 a d g
+4 b d f e
+2 c z
+5 d b o e q
+6 e w c g m n
+2 f e
+4 g p k l
+8 h a b e d k o w
+9 i d b n a z q w e
+1 j
+3 k a h
+5 l g h e o
+8 m v h o k l w z
+5 n m l v d
+8 o a v x z q p b
+5 p q a x c
+4 q z x c
+2 r e
+9 s d e f g h i j k
+1 t
+4 u h d e
+5 v b c d q
+7 w l k o b n e
+8 x z v b e q a p
+3 y e t
+7 z t o k j g b
+26 26
+a b c d e f g h i j k l m n o p q r s t u v w x y z
+3 a d g
+4 b d f e
+2 c z
+5 d b o e q
+6 e w c g m n
+2 f e
+4 g p k l
+8 h a b e d k o w
+9 i d b n a z q w e
+1 j
+3 k a h
+5 l g h e o
+8 m v h o k l w z
+5 n m l v d
+8 o a v x z q p b
+5 p q a x c
+4 q z x c
+2 r e
+9 s d e f g h i j k
+1 t
+4 u h d e
+5 v b c d q
+7 w l k o b n e
+8 x z v b e q a p
+3 y e t
+7 z t o k j g b
+26 26
+a b c d e f g h i j k l m n o p q r s t u v w x y z
+3 a d g
+4 b d f e
+2 c z
+5 d b o e q
+6 e w c g m n
+2 f e
+4 g p k l
+8 h a b e d k o w
+9 i d b n a z q w e
+1 j
+3 k a h
+5 l g h e o
+8 m v h o k l w z
+5 n m l v d
+8 o a v x z q p b
+5 p q a x c
+4 q z x c
+2 r e
+9 s d e f g h i j k
+1 t
+4 u h d e
+5 v b c d q
+7 w l k o b n e
+8 x z v b e q a p
+3 y e t
+7 z t o k j g b
+26 26
+a b c d e f g h i j k l m n o p q r s t u v w x y z
+3 a d g
+4 b d f e
+2 c z
+5 d b o e q
+6 e w c g m n
+2 f e
+4 g p k l
+8 h a b e d k o w
+9 i d b n a z q w e
+1 j
+3 k a h
+5 l g h e o
+8 m v h o k l w z
+5 n m l v d
+8 o a v x z q p b
+5 p q a x c
+4 q z x c
+2 r e
+9 s d e f g h i j k
+1 t
+4 u h d e
+5 v b c d q
+7 w l k o b n e
+8 x z v b e q a p
+3 y e t
+7 z t o k j g b
+26 26
+a b c d e f g h i j k l m n o p q r s t u v w x y z
+3 a d g
+4 b d f e
+2 c z
+5 d b o e q
+6 e w c g m n
+2 f e
+4 g p k l
+8 h a b e d k o w
+9 i d b n a z q w e
+1 j
+3 k a h
+5 l g h e o
+8 m v h o k l w z
+5 n m l v d
+8 o a v x z q p b
+5 p q a x c
+4 q z x c
+2 r e
+9 s d e f g h i j k
+1 t
+4 u h d e
+5 v b c d q
+7 w l k o b n e
+8 x z v b e q a p
+3 y e t
+7 z t o k j g b
